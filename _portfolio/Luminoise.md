@@ -1,6 +1,6 @@
 ---
 title: "Luminoise"
-excerpt: "Jeux de gestion<br/><img src='/images/Luminoise_Menu.png'>"
+excerpt: "Jeux de gestion dans le cadre de l'UE Jeu sérieux<br/><img src='/images/Luminoise_Menu.png'>"
 collection: portfolio
 ---
 
