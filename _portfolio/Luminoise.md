@@ -4,7 +4,6 @@ excerpt: "Jeux de gestion dans le cadre de l'UE Jeu sérieux<br/><img src='/imag
 collection: portfolio
 ---
 
-# Luminoise
 ![Menu](/images/Luminoise_Menu.png)
 ## Contexte
 Ce projet a été réalisé dans le cadre de la matière Jeu sérieux dans le master informatique IMAGINE de la faculté des sciences de Montpellier.
