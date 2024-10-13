@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Le site de Pierre"
+title: "Le site de Pie R"
 author_profile: true
 redirect_from: 
   - /about/
