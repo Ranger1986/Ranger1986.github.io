@@ -20,6 +20,8 @@ Etudiants:
 
 Date: 18 Septembre - 30 Octobre
 
+git: https://github.com/Ranger1986/jeuserieux
+
 ## Gameplay
 
 ![Ecran Principal](/images/Luminoise_Main.png)
