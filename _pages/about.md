@@ -16,7 +16,6 @@ J'aime beaucoup programmer, que ce soit pour réaliser des logiciels personnels 
 - C++   (★★★★☆)
 - GLSL  (★★★☆☆)
 - OpenGL(★★★☆☆)
-- Cuda  (★☆☆☆☆)
 - Python(★★★★☆)
 - Java  (★★★☆☆)
 - SQL   (★★★★☆)
