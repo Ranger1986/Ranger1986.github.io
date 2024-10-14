@@ -1,12 +1,12 @@
 ---
 title: "Luminoise"
-excerpt: "Jeux de gestion dans le cadre de l'UE Jeu sérieux<br/><img src='/images/Luminoise_Menu.png'>"
+excerpt: "Jeu de gestion dans le cadre de l'UE Jeu sérieux<br/><img src='/images/Luminoise_Menu.png'>"
 collection: portfolio
 ---
 
 ![Menu](/images/Luminoise_Menu.png)
 ## Contexte
-Ce projet a été réalisé dans le cadre de la matière Jeu sérieux dans le master informatique IMAGINE de la faculté des sciences de Montpellier.
+Ce projet a été réalisé avec Godot dans le cadre de la matière Jeu sérieux dans le master informatique IMAGINE de la faculté des sciences de Montpellier.
 
 Encadrant:
 - Nicolas LUTZ

@@ -1,14 +1,14 @@
 ---
 title: "2Bros"
-excerpt: "Jeux de gestion dans le cadre de l'UE Moteur de Jeux<br/><img src='/images/2Bros.png'>"
+excerpt: "Broforce like dans le cadre de l'UE Moteur de Jeux<br/><img src='/images/2Bros.png'>"
 collection: portfolio
 ---
 
 ## Contexte
-Ce projet a été réalisé dans le cadre de la matière Moteur de Jeu dans le master informatique IMAGINE de la faculté des sciences de Montpellier.
+Ce projet a été réalisé avec OpenGL dans le cadre de la matière Moteur de Jeu dans le master informatique IMAGINE de la faculté des sciences de Montpellier.
 Le but de ce moteur de jeux est de pouvoir créer un broforce like.
 
-Encadrant:
+Encadrante:
 - Noura FARAJ
 
 Etudiants:
