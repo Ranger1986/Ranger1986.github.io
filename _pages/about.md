@@ -13,17 +13,17 @@ J'aime beaucoup programmer, que ce soit pour réaliser des logiciels personnels 
 ## Compétences
 
 ### Programmation
-- C++   (★★★★☆)
+- C++   (★★★★★)
 - GLSL  (★★★☆☆)
 - OpenGL(★★★☆☆)
-- Python(★★★★☆)
+- Python(★★★★★)
 - Java  (★★★☆☆)
 - SQL   (★★★★☆)
 - Shell (★★☆☆☆)
 - Latex (★★★★☆)
 ### Logiciel
 #### Moteur de jeux
-- Godot     (★★★★☆)
+- Godot     (★★★★★)
 - Unity     (★★★★☆)
 - RPGMaker  (★★☆☆☆)
 #### Interface graphique
