@@ -13,29 +13,41 @@ J'aime beaucoup programmer, que ce soit pour réaliser des logiciels personnels 
 ## Compétences
 
 ### Programmation
-- C++   (★★★★★)
-- GLSL  (★★★☆☆)
-- OpenGL(★★★☆☆)
-- Python(★★★★★)
-- Java  (★★★☆☆)
-- SQL   (★★★★☆)
-- Shell (★★☆☆☆)
-- Latex (★★★★☆)
+
+- Python
+
+- C++
+  - OpenGL
+  - GLSL
+
+- Java
+
+- SQL
+
+- Shell
+
+- Latex
+
+- Web
+  - HTML 
+  - CSS 
+  - Javascript
+  - Angular
+
 ### Logiciel
 #### Moteur de jeux
-- Godot     (★★★★★)
-- Unity     (★★★★☆)
-- RPGMaker  (★★☆☆☆)
+- Godot
+- Unity
 #### Interface graphique
-- QT        (★★★☆☆)
-- wxGlade   (★★★★☆)
+- QT
+- wx
 #### Manipulation d'image
-- Gimp      (★★★☆☆)
-- Krita     (★★★☆☆)
+- Gimp
+- Krita
 #### Autres
-- Blender   (★★☆☆☆)
-- Android Studio   (★★☆☆☆)
+- Blender
+- Android Studio
 ### Langue
-- Français  (★★★★★)
-- Anglais   (★★★★☆)
-- Japonais  (★★☆☆☆)
+- Français  (Natif)
+- Anglais   (Courant)
+- Japonais  (Base)
