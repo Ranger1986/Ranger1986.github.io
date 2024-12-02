@@ -25,7 +25,7 @@ Equipe:
 - Pierre RICHARD
 - Victor ONIC
 
-Date: 23 octobre 2024 - 24 octobre 2024
+Date: 23 novembre 2024 - 24 novembre 2024
 
 itch.io : https://ranger1986.itch.io/dicesfriends
 
