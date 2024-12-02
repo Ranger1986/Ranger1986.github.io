@@ -17,7 +17,7 @@ Etudiants:
 - Evan COMBOT
 - Pierre RICHARD
 
-Date: 18 Septembre - 30 Octobre
+Date: 18 Septembre - 30 Octobre 2024
 
 git: https://github.com/Ranger1986/jeuserieux
 
