@@ -1,6 +1,6 @@
 ---
 title: "Dices & Friends"
-excerpt: "Jeu de stratégie se basant sur des dés<br/><img src='/images/Suzanne.png'>"
+excerpt: "Jeu de stratégie réalisé en game jam se basant sur des dés<br/><img src='/images/Suzanne.png'>"
 collection: portfolio
 ---
 

@@ -9,7 +9,8 @@ redirect_from:
 Bonjour! Je m'appelle Pierre Richard, je suis un étudiant en informatique graphique dans le master [IMAGINE](https://formations-en.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154/imagine-PR478.html) (IA, Image, modélisation 3D et jeu).
 Passionné par l'informatique j'ai quitté la Nouvelle-Calédonie afin de poursuivre mes études après ma licence.
 
-J'aime beaucoup programmer, que ce soit pour réaliser des logiciels personnels ou des jeux. J'aime beaucoup tout ce qui est lié à la génération procédural, je trouve ça passionnant.
+J'aime beaucoup programmer, que ce soit pour réaliser des logiciels personnels ou des jeux. 
+J'aime également ce qui touche à la génération procédurale mais je suis également interessé par l'ergonomie et l'image.
 ## Compétences
 
 ### Programmation
@@ -28,7 +29,7 @@ J'aime beaucoup programmer, que ce soit pour réaliser des logiciels personnels 
 
 - Latex
 
-- Web
+- Web:
   - HTML 
   - CSS 
   - Javascript
